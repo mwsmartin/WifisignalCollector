@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WiFiSignalCollector</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_floor">Floor</string>
+    <string name="prompt_x">X position</string>
+    <string name="prompt_y">Y position</string>
+    <string name="action_scan">Scan</string>
+    <string name="action_save">Save</string>
+    <string name="action_generate_db">Generate db</string>
+    <string name="action_analyse_db">Analyse db</string>
+    <string name="action_load_db">Load db</string>
+    <string name="action_check_db">Check location</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+</resources>
